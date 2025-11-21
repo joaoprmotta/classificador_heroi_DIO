@@ -1,12 +1,12 @@
-🧠 Classificador de Nível de Herói
+# Classificador de Nível de Herói
 
-Desafio do curso de Lógica de Programação – DIO.
+### Desafio do curso de Lógica de Programação – DIO.
 
-📌 Sobre o Projeto
+## Sobre o Projeto
 
 Este repositório contém a solução do desafio proposto pela DIO, onde criamos um programa simples em Python para classificar o nível de um herói com base em sua quantidade de XP.
 
-O objetivo é praticar:
+## O objetivo é praticar:
 
 Variáveis
 
@@ -16,7 +16,7 @@ Estruturas condicionais
 
 Lógica de comparação
 
-📜 Regras do Desafio
+## Regras do Desafio
 
 O programa deve:
 
@@ -41,11 +41,11 @@ Classificar o nível conforme a tabela:
 Exibir:
 "O Herói de nome {nome} está no nível {nível}"
 
-💻 Arquivo
+## Arquivo
 
 O código desenvolvido está no arquivo classificador.py.
 
-🛠 Tecnologias
+## Tecnologias
 
 Python 3
 
