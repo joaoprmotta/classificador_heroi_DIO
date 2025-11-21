@@ -50,3 +50,12 @@ O código desenvolvido está no arquivo classificador.py.
 Python 3
 
 VS Code
+
+## Como usar
+
+1. Certifique-se de ter o Python instalado.
+2. Baixe o arquivo `classificador.py`.
+3. Execute o código com o comando:
+
+   ```bash
+   python .\classificador.py
